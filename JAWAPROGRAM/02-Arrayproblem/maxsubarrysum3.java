@@ -21,7 +21,7 @@ public class maxsubarrysum3 {
     }
 
     public static void main(String args []){
-        int arry [] = {kdan1,-2,6,-1,3};
+        int arry [] = {1,-2,6,-1,3};
         kdanshalgoridem(arry);
     }
 }
