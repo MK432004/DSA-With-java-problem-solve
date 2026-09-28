@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 //  calcuate maxsubarry usinig help of prefix arry 
 public class maxsubarry2 {

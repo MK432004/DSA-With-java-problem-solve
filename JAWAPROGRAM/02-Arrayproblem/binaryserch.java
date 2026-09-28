@@ -1,4 +1,4 @@
-import java.util.*;
+
 public  class binaryserch {
 
     public static int binaryserch(int arry[], int key){

@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class smallestnumber {
     public static int smallestnum(int number[]){
     int smallest = Integer.MAX_VALUE;

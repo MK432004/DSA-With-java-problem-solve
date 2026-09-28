@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class trapingranwater {
 
     public static int calculatrapingranwater(int height []){
