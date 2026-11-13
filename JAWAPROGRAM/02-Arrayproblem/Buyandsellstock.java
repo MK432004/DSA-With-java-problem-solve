@@ -1,8 +1,6 @@
 
 
-
-
-public class Buyandsellstock {
+public class Buyandsellstock{
 public static int calculatemaxprofit(int prices []){
     int buyprices = Integer.MAX_VALUE;
     int maxprofit = 0;
@@ -28,4 +26,5 @@ public static int calculatemaxprofit(int prices []){
     }
     
 }
+
 
